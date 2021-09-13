@@ -1,0 +1,18 @@
+.item {
+  margin: 0 auto;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  align-items: center;
+}
+
+.item__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 55px;
+  border-radius: 6px;
+  border: none;
+  height: 22px;
+}
